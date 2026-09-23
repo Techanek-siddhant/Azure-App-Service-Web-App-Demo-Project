@@ -10,7 +10,7 @@ Watch the video tutorials and follow step-by-step instructions to learn how to c
 
 Login to your Azure account and create a resource group for this project. In this tutorial we will be using the resource group name `resource-group-web-app-demo` .
 
-### Create Web App Resource
+### Create Web App Resources
 
 1. Navigate to the resource group that was just created and add a new resource.
 2. Search for "web app" in the azure marketplace.
